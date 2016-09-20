@@ -1,0 +1,149 @@
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.pdb
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\Antlr3.Runtime.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.AspNet.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.Core.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\EntityFramework.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.Infrastructure.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.WebPages.OAuth.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\Newtonsoft.Json.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Net.Http.Formatting.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Helpers.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.WebHost.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Mvc.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Optimization.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Razor.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Deployment.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Razor.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\WebGrease.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\WebMatrix.Data.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\WebMatrix.WebData.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\EntityFramework.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\Newtonsoft.Json.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Net.Http.Formatting.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Helpers.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.WebHost.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Mvc.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.Razor.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Deployment.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Razor.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\WebMatrix.Data.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.WebPages.OAuth.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\WebMatrix.WebData.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.AspNet.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.Core.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.dll
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.pdb
+I:\Visual Studio Projects\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.dll.config
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.pdb
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.AspNet.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.Core.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.Consumer.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\EntityFramework.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.WebPages.OAuth.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\WebGrease.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\WebMatrix.Data.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\WebMatrix.WebData.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\EntityFramework.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\WebMatrix.Data.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.WebPages.OAuth.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\WebMatrix.WebData.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.AspNet.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.Core.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.Consumer.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.dll
+\\Mac\Home\Desktop\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.pdb
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.dll.config
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\TripleThreatGame.pdb
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.AspNet.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.Core.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\EntityFramework.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\WebGrease.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\WebMatrix.Data.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\WebMatrix.WebData.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\EntityFramework.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\WebMatrix.Data.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\WebMatrix.WebData.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.AspNet.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.Core.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OAuth.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.dll
+C:\inetpub\wwwroot\vs_files\TripleThreatGame\TripleThreatGame\obj\Debug\TripleThreatGame.pdb

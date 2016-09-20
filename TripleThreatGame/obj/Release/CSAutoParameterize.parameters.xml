@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=192.168.1.23;Initial Catalog=triplethreatgame;Persist Security Info=True;User ID=sa;Password=Morr2sse12" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\inetpub\\wwwroot\\vs_files\\TripleThreatGame\\TripleThreatGame\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

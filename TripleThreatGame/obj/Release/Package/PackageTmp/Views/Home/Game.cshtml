@@ -1,0 +1,160 @@
+﻿@model TripleThreatGame.Models.gameModels
+@{
+    ViewBag.Title = "Game";
+    ViewBag.Score = 0;
+}
+
+@*@Model.ID*@
+
+
+
+    <div id="board" class="board">
+        @Html.Partial("Board")
+    </div>
+<div style="clear: both"></div>
+
+    <div id="cards" class="cards">
+        @Html.Partial("Cards")
+    </div>
+
+
+    <div id="alerts" class="alerts" style="display:none; padding-top:30px;">
+        <div id="lets-play"></div>
+    </div>
+
+
+
+<div id="instructions">
+    <img src="~/Images/game-rules.png" />
+    <br />
+    <br />
+    Each Player has 5 cards.
+    <br />
+    The goal is to trump other players cards on the grid by placing cards adjacently.
+    <br />
+    If you trump a players card, you "take" that card.
+    <br />
+    The player with the most of their color cards on the board at the end of the round wins.
+    <br />
+    <br />
+    <button onclick="$('.ui-dialog').dialog('destroy').remove();" class="btn-play"></button>
+    <br />
+    <br />
+    <br />
+</div>
+
+
+
+@*<section class="chat-area">
+    <div id="chatWindow" class="chat-window">
+        <div id="chatWindowContent">
+            @Html.Action("Chat")
+        </div>
+    </div>
+    <div style="clear:both"></div>
+@using (Html.BeginForm("Chat", "Home", FormMethod.Post, new { enctype = "multipart/form-data", onsubmit="sendMessage(this); return false;"}))
+{
+     <input type="text" name="chatField" id="chatField" value=""/> <button type="submit">Send</button>
+}
+
+</section>*@
+
+
+<nav id="menu-bottom">
+    <ul>
+        <li><a href="javascript: showInstructions()">How To Play</a></li>
+        <li>High Scores</li>
+        <li id="play">Restart Game</li>
+        @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+        {
+            @Html.AntiForgeryToken()
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">Quit Game</a></li>
+
+        }
+        <li id="score">&nbsp;&nbsp;SCORE:<br />@ViewBag.score</li>
+
+    </ul>
+</nav>
+<div id="menu-bottom-button" onclick="showNav()"></div>
+<div id="prompt-great" class="prompt"><img src="~/Images/prompt-great.png" /></div>
+
+<script>
+    UrlAction = "@Url.Action("")";
+    $(document).ready(function () {
+
+        $('#board table tr td').on('hover', function () {
+           // alert('test');
+            //return false;
+
+        });
+
+        showInstructions();
+        setupSound();
+        setupGame();
+        //getChat();
+
+
+    });//end ready 
+
+    function showInstructions(){
+
+        $('#instructions').dialog({
+
+            create: function () { $(this).parent('.ui-dialog').css({ marginTop: '30px' }); $(".ui-dialog-titlebar").hide(); },
+            closable: false,
+            draggable: false,
+            modal: true,
+            position: 'top',
+            resizable: false,
+
+        })
+    }
+
+    function showNav() {
+
+        if ($('nav#menu-bottom').height() == 0) {
+
+            $('nav#menu-bottom').stop(true, true).animate({ height: '+=40px' });
+
+        } else {
+
+            $('nav#menu-bottom').stop(true, true).animate({ height: '0px' });
+        }
+    }
+
+    function hideNav() {
+
+        $('nav#menu-bottom').stop(true, true).animate({ height: '0px' });
+
+    }
+
+    $('.board, .cards').on('click', function(){
+
+        //hideNav();
+    });
+
+    $(document).ready(function(){
+        $('#play').on('click', function () {
+
+            if (window.turncount >=24 || confirm('Are you sure? This will clear the current board!')) {
+
+                $("#board").load('Board', function () {
+
+                    $("#cards").load('Cards', function () {
+
+                        window.turncount = 0;
+
+                        setupGame()
+                        $('#alerts').html('');
+                        $('.ui-dialog').dialog('destroy').remove();
+                    });
+
+                });
+
+            }
+
+        });
+    });
+
+</script>
+

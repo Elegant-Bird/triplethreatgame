@@ -1,0 +1,26 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+  
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+
+    @Request["txt1"]
+    @Request["mycheckbox"]
+
+
+   <div>
+        <form name="retrieveForm" id="retrieveForm" action="Tim" method="post">
+            <input type="submit" form="retrieveForm" value="Select" name="submit"/>
+            <input name="mycheckbox" type="checkbox" value="aa8a0172-5bca-4c14-ad3e-4c9764b3b938" id="check-aa8a0172-5bca-4c14-ad3e-4c9764b3b938" checked="checked" />
+            <input name="txt1" type="text" value="Some Text" id="txt1" />
+        </form>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no">
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/themes/base/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @RenderSection("scripts", required: false)
+    <script src="/scripts/sound.js"></script>
+    <script src="/scripts/game.js"></script>
+    <script src="/scripts/chat.js"></script>
+    <!--[if gte IE 9]>
+    <style type="text/css">
+        .gradient {
+            filter: none;
+        }
+    </style>
+    <![endif]-->
+
+</head>
+<body>
+    @* <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title">@Html.ActionLink("Triple Threat Game", "Index", "Home")</p>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                    <nav>
+                        <ul id="menu">
+                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>*@
+    <div id="body">
+        @RenderSection("featured", required: false)
+        
+            @RenderBody()
+       
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            
+                <p>&copy; @DateTime.Now.Year - Triple Threat Game by JUDSON www.judsondesigns.com</p>
+           
+        </div>
+    </footer>
+
+    @*<audio src="horse.ogg" controls="controls">
+          <script>
+              console.log('This browser doesnt support playing of sound.');
+          </script>
+    </audio>*@
+
+
+</body>
+</html>
+

@@ -1,0 +1,325 @@
+﻿/* apply a natural box layout model to all elements */
+body {
+    overflow: hidden;
+    text-align: center;
+    min-height:1000px;
+   
+}
+
+.board * {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.slot-hover {
+    background: #ffffc3;
+}
+
+.board {
+
+    margin: 10px auto 0px auto;
+    display: inline-block;
+}
+
+.board ul {
+    width: 250px;
+    height:250px;
+    -webkit-box-shadow: 0px 0px 10px black;
+    box-shadow: 0px 0px 10px black;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    background-image: url(../Images/t3.jpg);
+    -webkit-background-size: contain;
+    -o-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    border-radius:10px;
+    list-style: none;
+   
+}
+
+
+.board ul li {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    list-style: none;
+    float: left;
+}
+
+
+
+/* apply a natural box layout model to all elements */
+.cards * {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.cards {
+    display: inline-block;
+    margin: 5px auto 0px auto;
+    clear: both;
+    width:312px;
+
+}
+
+.cards ul {
+   
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    border-spacing: 4px;
+    position: relative;
+    display: inline-block;
+    float: left;
+
+}
+
+.cards ul li {
+    height: 50px;
+    width: 50px;
+    background: none;    
+    margin: 1px;
+    padding: 0px;
+    text-align: center;
+    position: relative;
+    float: left;
+}
+
+
+.card {
+    background: #166FA9;
+    background-image: url(../Images/card-player.png);
+    -o-background-size: contain;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    color: white;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 24px;
+    -webkit-box-shadow: inset 0px 0px 1px black, 0px 3px 5px #666;
+    box-shadow: inset 0px 0px 1px black, 0px 3px 5px #666;
+    border-radius: 10px;
+    -webkit-text-shadow: 1px 1px 2px #000;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.card-player {
+
+    background: #166FA9;
+    background-image: url(../Images/card-player.png);
+    color: white;
+    width: 50px;
+    height:  50px;
+    line-height:  50px;
+    font-size: 24px;
+    -webkit-box-shadow: inset 0px 0px 1px black;
+    box-shadow: inset 0px 0px 1px black;
+    margin: 0 auto;
+    border-radius:10px;
+    -webkit-text-shadow: 1px 1px 2px #000;
+    text-shadow: 1px 1px 2px #000;
+
+}
+
+.card-computer {
+
+    background: #E21FDA;
+    background-image: url(../Images/card-computer.png);
+    color: white;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 24px;
+   -webkit-box-shadow: inset 0px 0px 1px black;
+    box-shadow: inset 0px 0px 1px black;
+    margin: 0 auto;
+    border-radius:10px;
+    -webkit-text-shadow: 1px 1px 2px #000;
+    text-shadow: 1px 1px 2px #000;
+
+}
+
+.chat-area {
+    clear: both;
+    width: 300px;
+}
+
+.chat-window {
+    clear: both;
+    width: 100%;
+    display: block;
+    margin: 20px 0px 0px 0px;
+    background: white;
+    float: left;
+    border: 1px solid #444;
+    height: 100px;
+    overflow: auto;
+    font-size: 12px;
+    text-align: left;
+}
+
+.chat-area form {
+    padding: 0px;
+}
+
+.chat-area input[type=text] {
+    width: 200px;
+}
+
+.chat-area button {
+}
+
+.chat-name {
+    color: #303030;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.chat-time {
+    color: #9c9c9c;
+    font-size: 11px;
+}
+
+
+span#win, span#lose, div#lets-play {
+    font-size: 24px;
+}
+
+span#win {
+    color: green;
+}
+
+span#lose {
+    color: red;
+}
+
+div#lets-play {
+    color: blue;
+}
+
+#menu-bottom-button{
+
+    position: fixed;
+    bottom:0px;
+    right:0px;
+    z-index:999;
+    width: 32px;
+    height:32px;
+    background-image: url(../Images/menu-button.png);
+    display: block;
+
+}
+
+nav#menu-bottom {
+    position: fixed;
+    bottom: 0px;
+    background: #323232;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    left: 0px;
+    display: block;
+    overflow: hidden;
+    height:0px;
+    z-index:10;
+}
+
+nav#menu-bottom ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav#menu-bottom ul li {
+    border-right: 1px solid white;
+    width: 62px;
+    height: 40px;
+    font-size: 14px;
+    -moz-text-shadow: 1px 1px 1px black;
+    -webkit-text-shadow: 1px 1px 1px black;
+    text-shadow: 1px 1px 1px black;
+    color: white;
+    padding: 3px 0px 0px 0px;
+    text-align: center;
+    vertical-align: middle;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+}
+
+nav#menu-bottom ul li a {
+    width: 100%;
+    height: 100%;
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin:0px;
+    padding:0px;
+}
+/*nav#menu-bottom ul li#score{
+    text-align: left;
+    width:130px;   
+    line-height: 40px;
+    padding-top: 0px;
+}*/
+
+.ui-state-disabled { opacity: .50; filter:Alpha(Opacity=50); background-image: none; }
+img#win, img#lose, #instructions img {
+    max-width:100%;
+    
+}
+
+.btn-play{
+    background: none;
+    background-image: url(../Images/btn_play.png);
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:226px;
+    height:50px;
+    border: none;
+    overflow: hidden;
+    margin-right:0px;
+
+
+}
+
+.ui-dialog{
+
+    -webkit-box-shadow: 0px 0px 10px #444;
+    box-shadow: 0px 0px 10px #444;
+
+}
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+.prompt {
+
+    position:fixed;
+    top: 0px;
+    margin-left: -150px;
+    display: none;
+    left: 50%;
+    z-index:1000;
+}
+
+#instructions{display:none;}
+
+
+
